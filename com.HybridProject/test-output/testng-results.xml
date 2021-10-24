@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1925" started-at="2021-10-24T05:38:05Z" finished-at="2021-10-24T05:38:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1925" started-at="2021-10-24T05:38:05Z" finished-at="2021-10-24T05:38:07Z">
+      <class name="com.tests.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginPageTest@369f73a2]" name="setup" is-config="true" duration-ms="3861" started-at="2021-10-24T05:38:01Z" finished-at="2021-10-24T05:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitle()[pri:1, instance:com.tests.LoginPageTest@369f73a2]" name="verifyTitle" duration-ms="26" started-at="2021-10-24T05:38:05Z" finished-at="2021-10-24T05:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="invalidLoginTest()[pri:2, instance:com.tests.LoginPageTest@369f73a2]" name="invalidLoginTest" duration-ms="645" started-at="2021-10-24T05:38:05Z" finished-at="2021-10-24T05:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method status="PASS" signature="validLoginTest()[pri:3, instance:com.tests.LoginPageTest@369f73a2]" name="validLoginTest" duration-ms="893" started-at="2021-10-24T05:38:06Z" finished-at="2021-10-24T05:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.tests.LoginPageTest@369f73a2]" name="closeBrowser" is-config="true" duration-ms="152" started-at="2021-10-24T05:38:07Z" finished-at="2021-10-24T05:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.tests.LoginPageTest -->
+      <class name="com.tests.DashboardPageTest">
+        <test-method status="PASS" signature="verifyCourses()[pri:4, instance:com.tests.DashboardPageTest@1f28c152]" name="verifyCourses" duration-ms="75" started-at="2021-10-24T05:38:06Z" finished-at="2021-10-24T05:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCourses -->
+        <test-method status="PASS" signature="usersLinkClick()[pri:5, instance:com.tests.DashboardPageTest@1f28c152]" name="usersLinkClick" duration-ms="195" started-at="2021-10-24T05:38:07Z" finished-at="2021-10-24T05:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usersLinkClick -->
+      </class> <!-- com.tests.DashboardPageTest -->
+      <class name="com.tests.UsersPageTest">
+        <test-method status="PASS" signature="verifyTableRows()[pri:6, instance:com.tests.UsersPageTest@7d907bac]" name="verifyTableRows" duration-ms="27" started-at="2021-10-24T05:38:07Z" finished-at="2021-10-24T05:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTableRows -->
+      </class> <!-- com.tests.UsersPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

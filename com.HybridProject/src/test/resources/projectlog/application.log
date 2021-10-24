@@ -1,0 +1,42 @@
+2021-10-24 11:08:01,476  INFO [main] BaseClass:38 - initializing browser
+2021-10-24 11:08:01,478  INFO [main] BaseClass:21 - reading property file for key: browser
+2021-10-24 11:08:01,479  INFO [main] BaseClass:29 - property value found
+2021-10-24 11:08:01,479  INFO [main] BaseClass:21 - reading property file for key: chromeDriverFilePath
+2021-10-24 11:08:01,480  INFO [main] BaseClass:29 - property value found
+2021-10-24 11:08:04,171  INFO [main] BaseClass:21 - reading property file for key: browser
+2021-10-24 11:08:04,173  INFO [main] BaseClass:29 - property value found
+2021-10-24 11:08:04,303  INFO [main] BaseClass:21 - reading property file for key: url
+2021-10-24 11:08:04,309  INFO [main] BaseClass:29 - property value found
+2021-10-24 11:08:04,942  INFO [main] BaseClass:51 - applying common waits over a browser
+2021-10-24 11:08:04,945  INFO [main] BaseClass:21 - reading property file for key: pageload
+2021-10-24 11:08:04,949  INFO [main] BaseClass:29 - property value found
+2021-10-24 11:08:04,959  INFO [main] BaseClass:21 - reading property file for key: pageload
+2021-10-24 11:08:04,962  INFO [main] BaseClass:29 - property value found
+2021-10-24 11:08:05,326  INFO [main] BaseClass:40 - Test suite is started
+2021-10-24 11:08:05,331  INFO [main] BaseClass:40 - Test suite is started
+2021-10-24 11:08:05,371  INFO [main] BaseClass:14 - Test case started with name: verifyTitle
+2021-10-24 11:08:05,375  INFO [main] BaseClass:14 - Test case started with name: verifyTitle
+2021-10-24 11:08:05,383  INFO [main] BaseClass:18 - Test case succeed with name: verifyTitle
+2021-10-24 11:08:05,390  INFO [main] BaseClass:18 - Test case succeed with name: verifyTitle
+2021-10-24 11:08:05,395  INFO [main] BaseClass:14 - Test case started with name: invalidLoginTest
+2021-10-24 11:08:05,402  INFO [main] BaseClass:14 - Test case started with name: invalidLoginTest
+2021-10-24 11:08:06,040  INFO [main] BaseClass:18 - Test case succeed with name: invalidLoginTest
+2021-10-24 11:08:06,045  INFO [main] BaseClass:18 - Test case succeed with name: invalidLoginTest
+2021-10-24 11:08:06,047  INFO [main] BaseClass:14 - Test case started with name: validLoginTest
+2021-10-24 11:08:06,050  INFO [main] BaseClass:14 - Test case started with name: validLoginTest
+2021-10-24 11:08:06,940  INFO [main] BaseClass:18 - Test case succeed with name: validLoginTest
+2021-10-24 11:08:06,941  INFO [main] BaseClass:18 - Test case succeed with name: validLoginTest
+2021-10-24 11:08:06,942  INFO [main] BaseClass:14 - Test case started with name: verifyCourses
+2021-10-24 11:08:06,944  INFO [main] BaseClass:14 - Test case started with name: verifyCourses
+2021-10-24 11:08:07,018  INFO [main] BaseClass:18 - Test case succeed with name: verifyCourses
+2021-10-24 11:08:07,019  INFO [main] BaseClass:18 - Test case succeed with name: verifyCourses
+2021-10-24 11:08:07,020  INFO [main] BaseClass:14 - Test case started with name: usersLinkClick
+2021-10-24 11:08:07,021  INFO [main] BaseClass:14 - Test case started with name: usersLinkClick
+2021-10-24 11:08:07,215  INFO [main] BaseClass:18 - Test case succeed with name: usersLinkClick
+2021-10-24 11:08:07,216  INFO [main] BaseClass:18 - Test case succeed with name: usersLinkClick
+2021-10-24 11:08:07,217  INFO [main] BaseClass:14 - Test case started with name: verifyTableRows
+2021-10-24 11:08:07,218  INFO [main] BaseClass:14 - Test case started with name: verifyTableRows
+2021-10-24 11:08:07,245  INFO [main] BaseClass:18 - Test case succeed with name: verifyTableRows
+2021-10-24 11:08:07,250  INFO [main] BaseClass:18 - Test case succeed with name: verifyTableRows
+2021-10-24 11:08:07,251  INFO [main] BaseClass:44 - Test suite is finished
+2021-10-24 11:08:07,791  INFO [main] BaseClass:44 - Test suite is finished
